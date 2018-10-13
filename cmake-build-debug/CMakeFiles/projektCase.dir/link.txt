@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/projektCase.dir/main.c.o  -o projektCase 
